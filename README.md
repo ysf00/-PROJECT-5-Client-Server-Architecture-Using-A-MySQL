@@ -48,9 +48,7 @@ $ sudo apt -y install mysql-server
 $ sudo mysql_secure_installation
 ```
 
-![Settings](s1.jpg)
-
-![Settings](s2.jpg)
+![Settings](s1.jpg)     ![Settings](s2.jpg)
 
 
 * To test that our *mysql server* installation is successful we use this command
